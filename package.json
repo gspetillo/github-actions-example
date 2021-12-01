@@ -1,0 +1,22 @@
+{
+  "name": "github-actions-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cleysonsilvame/github-actions-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleysonsilvame/github-actions-example/issues"
+  },
+  "homepage": "https://github.com/cleysonsilvame/github-actions-example#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
